@@ -2,10 +2,11 @@ import styled from "styled-components";
 import { device } from "../device/device";
 
 const Page = styled.div`
+  height: 100vh;
   width: 100%;
-  height: 100dvh;
-  /* margin: auto; */
+  margin: 0 auto;
   font-family: "sans-serif";
+  
   @media ${device.mobileS} {
     min-width: 320px;
   }

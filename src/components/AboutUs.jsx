@@ -44,8 +44,8 @@ function AboutUs() {
 export default AboutUs;
 
 const Container = styled.div`
-  min-width: 100vw;
-  max-width: 100vw;
+  /* min-width: 100vw;
+  max-width: 100vw; */
   background: #0000ff;
   padding: 2.5rem 2rem;
   margin-bottom: 0;

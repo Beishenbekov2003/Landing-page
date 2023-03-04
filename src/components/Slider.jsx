@@ -38,7 +38,7 @@ const SliderCintainer = styled.div`
   align-items: center;
 `;
 const Container = styled.div`
-padding: 2.5rem 2rem;
+  padding: 2.5rem 2rem;
   width: 100vw;
   display: flex;
   flex-direction: column;
@@ -82,4 +82,3 @@ const ImgStyled = styled.img`
     margin-left: 1rem;
   }
 `;
- 
